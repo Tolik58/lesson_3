@@ -1,0 +1,35 @@
+.name {
+    color:cadetblue;
+}
+
+a {
+    color:rgb(10, 195, 4);
+}
+
+.content a {
+    color:sandybrown;
+}
+
+div p {
+    color:green;
+}
+
+.page-one li {
+    color:saddlebrown;
+}
+
+.page-two {
+    color:rgb(114, 139, 92)
+}
+
+.page-three li {
+    color:slateblue;
+}
+
+.page-four p {
+    color:tomato;
+}
+
+mark {
+    color:red;
+}
